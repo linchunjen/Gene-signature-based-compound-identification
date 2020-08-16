@@ -119,6 +119,6 @@ residual invasive cancer was detected.
 
 > ![fig12](./figures/fig12.png)
 
-7. Summary
+## 7. Summary
 
 - Gene biomarkers not only improve the prediction accuracy and prevent overfitting situation; furthermore, identifying drugs or compounds for combination therapy to improve treatment responses. 
